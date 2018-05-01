@@ -40,7 +40,6 @@ let allMemories = [
   {%-endfor-%}
 ];
 
-{%-if page.layout == 'memory'-%}
 let playerProgress={{site.data.gameVariables.PlayerProgress| jsonify}};
 
   if (Cookies.get("playerProgress") != undefined) {
@@ -57,4 +56,3 @@ let playerCompleteness= 0;
 if (Cookies.get("playerCompleteness") != undefined) {
    playerCompleteness= parseInt(Cookies.get("playerCompleteness"));
 }
-{%-endif-%}
