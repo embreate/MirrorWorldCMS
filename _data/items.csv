@@ -1,0 +1,5 @@
+Id,Label,Description,Creatable,Category,Relavence
+BrknFlashlight,Broken Flashlight,A flashlight that is missing some batteries.,,,-1
+Batteries,Batteries,Some batteries,,,-1
+Flashlight,Flashlight,A working flashlight, Batteries + BrknFlashlight,,0
+Knife,Butcher Knife,sharp,,,1

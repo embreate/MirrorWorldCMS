@@ -1,0 +1,71 @@
+<button id="debugStats" type="button" class="btn btn-secondary btn-sm" data-toggle="collapse" data-target="#debugStatsDisplay" aria-expanded="false" aria-controls="debugStatsDisplay">
+            <i class="fas fa-sliders-h"></i>
+          </button>
+
+<div class="collapse" id="debugStatsDisplay">
+  <div class="card text-white bg-dark text-center">
+    <div class="card-header">
+      Player Stats
+    </div>
+    <div class="card-body pb-2">
+      <div class="card-header">
+        Level
+      </div>
+      <div class="input-group">
+        <span class="input-group-btn">
+                <button type="button" class="quantity-left-minus btn btn-danger btn-number"  data-type="minus" data-field="" data-target="playerProgress">
+                    <i class="fas fa-minus"></i>
+                  </button>
+              </span>
+        <input type="text" id="playerProgress" name="Player Progress" class="form-control input-number text-center" value="1" min="1" max="100" readonly>
+        <span class="input-group-btn">
+                <button type="button" class="quantity-right-plus btn btn-success btn-number" data-type="plus" data-field="" data-target="playerProgress">
+                    <i class="fas fa-plus"></i>
+                </button>
+            </span>
+      </div>
+      <div class="card-header"> Completeness
+      </div>
+      <div class="input-group">
+        <span class="input-group-btn">
+                    <button type="button" class="quantity-left-minus btn btn-danger btn-number"  data-type="minus" data-field="" data-target="playerCompleteness">
+                        <i class="fas fa-minus"></i>
+                      </button>
+                  </span>
+        <input type="text" id="playerCompleteness" name="Case Completeness" class="form-control input-number text-center" value="1" min="1" max="100" readonly>
+        <span class="input-group-btn">
+                    <button type="button" class="quantity-right-plus btn btn-success btn-number" data-type="plus" data-field="" data-target="playerCompleteness">
+                        <i class="fas fa-plus"></i>
+                    </button>
+                </span>
+      </div>
+      <div class="card-header">
+        Time Elapsed
+      </div>
+      <div class="input-group">
+        <span class="input-group-btn">
+                        <button type="button" class="quantity-left-minus btn btn-danger btn-number"  data-type="minus" data-field="" data-target="playerTime">
+                            <i class="fas fa-minus"></i>
+                          </button>
+                      </span>
+        <input type="text" id="playerTime" name="Elapsed Time" class="form-control input-number text-center" value="0" min="0" max="100" readonly>
+        <span class="input-group-btn">
+                        <button type="button" class="quantity-right-plus btn btn-success btn-number" data-type="plus" data-field="" data-target="playerTime">
+                            <i class="fas fa-plus"></i>
+                        </button>
+                    </span>
+      </div>
+      <div class="btn-group" role="group" data-toggle="buttons">
+      <button type="button" class="btn debugTimer" id="stopGlobalTimer">
+          <i class="fas fa-stop"></i>
+      </button>
+      <button type="button" class="btn debugTimer" id="playGlobalTimer">
+          <i class="fas fa-play"></i>
+      </button>
+      <button type="button" class="btn debugTimer" id="resetGlobalTimer">
+          <i class="fas fa-sync"></i>
+      </button>
+    </div>
+    </div>
+  </div>
+</div>

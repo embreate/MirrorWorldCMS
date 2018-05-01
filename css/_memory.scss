@@ -1,0 +1,137 @@
+.game-window {
+  .content {
+    section {
+      background-color: white;
+      min-height: 100vh;
+      padding: 20px;
+      margin-bottom: 0;
+    }
+
+    a {
+      @extend .btn;
+      @extend .btn-primary;
+      @extend .btn-block;
+    }
+
+    a.memory::before{
+      font-family: fontAwesome;
+      content: "\f187\00a0";
+    }
+    a.obj::before{
+      font-family: fontAwesome;
+      content: "\f187\00a0";
+    }
+
+      li.fakeItem {
+        @extend .btn;
+        @extend .btn-info;
+        @extend .btn-sm;
+        @extend .list-inline-item;
+        @extend .text-center;
+        margin-bottom: 5px;
+      }
+    img {
+      @extend .img-fluid;
+    }
+
+    button.note {
+      @extend .btn;
+      @extend .btn-warning;
+      @extend .btn-sm;
+      @extend .text-right;
+      margin-right: -40px;
+      float: right;
+    }
+
+    .dialogue {
+      text-align: center;
+      padding: 0 80px;
+    }
+
+    .add-copy-below {
+      background-color: #bbb;
+      text-align: center;
+      font-size: 14px;
+      padding: 10px;
+      font-style: italic;
+      margin: 20px 0;
+    }
+
+    .submit-memory {
+      background-color: $gray-400;
+      text-align: center;
+      padding: 10px;
+      margin-top: -15px;
+      color: color-yiq($gray-400);
+    }
+
+    .dropArea {
+      background-color: $gray-400;
+      text-align: center;
+      padding: 10px;
+      margin-top: -15px;
+      color: color-yiq($gray-400);
+    }
+
+    .dropArea.active {
+      background-color: theme-color-level(warning,-5) !important;
+      color: color-yiq(theme-color-level(warning,-5)) !important;
+    }
+
+    .dropArea.success {
+      background-color: theme-color-level(success, -3);
+      color: color-yiq(theme-color-level(success, -3));
+    }
+    .dropArea.fail {
+      background-color: theme-color-level(danger, -3);
+      color: color-yiq(theme-color-level(danger, -3));
+    }
+  }
+
+  .inventoryHolder {
+    position: fixed;
+    max-width: inherit;
+    min-width: 15%;
+    width: 270px;
+    z-index: $zindex-modal-backdrop;
+
+    ul {
+      @extend .list-inline;
+
+      li {
+        @extend .btn;
+        @extend .btn-info;
+        @extend .btn-sm;
+        @extend .list-inline-item;
+        margin-bottom: 5px;
+      }
+    }
+    .possibleDrop {
+      background-color: theme-color-level(warning,-5) !important;
+      color: color-yiq(theme-color-level(warning,-5));
+      border-style: none;
+    }
+
+    .itemMerged {
+      background-color: theme-color-level(success, -2);
+      border-color:  theme-color-level(success, -2);
+      color: color-yiq(theme-color-level(success, -2));
+    }
+
+    .itemMergedFailed {
+      background-color: theme-color-level(danger, -2);
+      border-color:  theme-color-level(danger, -2);
+      color: color-yiq(theme-color-level(danger, -2));
+    }
+
+    .debugTimer {
+      @extend .btn-info;
+    }
+
+    .debugTimer.active,
+    .debugTimer:active {
+      @extend .btn-secondary;
+    }
+
+  }
+}

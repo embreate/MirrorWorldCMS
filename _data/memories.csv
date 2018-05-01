@@ -1,0 +1,118 @@
+Date,Time,Owner,Type,Description,Order,Theory,Solve-Crime-Note,Location,Characters,Solve-Crime,Solve-Crime-Relavence,Status,Id,Label,Categories,Tags,Creatable,Image-Src
+9/1/2010,2:00 AM,Butcher,Memory,Born an Addict,,,,,,,,,,,,,,
+10/1/2015,,Butcher,Memory,Watching Parents Shoot Up on Couch,,,,,,,,,,,,,,
+2/1/2017,,Butcher,Memory,Watching Parents OD,,,,,,,,,,,,,,
+3/1/2017,,Butcher,Memory,Parents Funeral,,,,,,,,,,,,,,
+6/1/2019,,Butcher,Memory,"The Butcher is nine years old and his Grandpa has brought in a sheep for him to slaughter. There are a number of ways players can resolve the scene; 
+1. Grab knife and cut lambs throat -> GOTO Night in Trench, then #5 Butcher in front of butcher block 
+2. Run away ->
+3. Free lamb ->",6,3 Butcher: ???,This scene makes Raf seem Violent. Maybe he did it?,,,,,4 Engine Format,,2,,,,
+10/1/2020,,Protagonist,Power,"Endurace: Swimming, Mother Drowning",,,,,,,0,,,,Childhood,,,
+8/1/2024,,Butcher,Memory,Horse Race with Grandpa,,,,,,,,,,,,,,
+9/1/2025,,Butcher,Memory,Learns His Future Boss Sold Drugs to his Parents,,3 Butcher: ???,Possibly his boss is at the scene as well?,,,,,,,,,,,
+9/1/2026,,Butcher,Memory,Learns Grandma Has Severe Dementia/Alzeimers,,,,,,,,,,,,,,
+9/1/2027,,Butcher,Memory,Both Granparents Die in Same Year,,,,,,,,,,,,,,
+5/1/2028,,Butcher,Memory,Signs Up For Military,,,,,,,,,,,,,,
+6/1/2028,,Butcher,Memory,Bootcamp,,,,,,,,,,,,,,
+2/1/2029,,Butcher,Memory,Photo Opp with War Buddies,,,,,,,,,,,,,,
+1/1/2030,,Butcher,Memory,Off to War,,,,,,,,,,,,,,
+1/1/2030,,Protagonist,Power,Middle Finger: Protagonist Being Defiant,,,,,,,-1,,midFinger,Middle Finger,,Disagree,,
+3/1/2031,,Butcher,Memory,War: Innocent Civilians Killed,,,,,,,,,,,,,,
+10/1/2031,,Butcher,Memory,Night in the trench watching his war buddy bleed out of his leg.,7,3 Butcher: ???,Watching a friend bleed out. Is this an earlier victim or a sign that his PTSD may have got the better of him. ,,,,,,,,,,,
+12/1/2031,,Butcher,Memory,Gets Married,,,,,,,,,,,,,,
+2/1/2032,,Butcher,Memory,Birth of Daughter,,,,,,,,,,,,,,
+9/1/2032,,Butcher,Memory,Daughter Dies,,,,,,,,,,,,,,
+1/1/2033,,Butcher,Memory,"PTSD, Drinking & Drugs Leads to End of Marriage",,3 Butcher: ???,It appears he's unstable. ,,,,,,,,,,,
+2/1/2033,,Butcher,Memory,"The Butcher is at a soup kitchen, down on his luck. He meets Anarchist Dick and they talk about his issue with PTSD. Players will note that Anarchist Dick is one of the victims at the crime scene. Anarchist Dick talks to him about the benefits of brain sharing as a collective strategy for healing trauma. Players will later learn that this was an early attempt by Anarchist Dick to infect the Butcher with the Virus.",8,1 Crazy Cult,The Butcher knew one of the victims. Appears Anarachist Dick was recruiting him. ,Soup Kitchen,,,,,,,,,,
+6/1/2034,,Butcher,Memory,Corner Store w/ Anarchist Dick,,1 Crazy Cult,,Corner Store,,,,,,,,,,
+1/1/2035,,Butcher,Memory,Raf Needs a Job,,,,,,,,,,,,,,
+5/1/2036,,Butcher,Memory,Alone in His Apartment,,,,Raf's Apartment,,,,,,,,,,
+6/1/2036,11:00 AM,,Milestone,Raf Finds a Job at the Butchery,,,,,,,,,,,,,,
+6/1/2036,4:00 PM,Butcher,Memory,Raf Finds a Job at the Butchery,,,,The Butchery,,,,,,,,,,
+12/1/2036,,Butcher,Memory,"Raf tells his Uncle 'I'm going to kill him'. He is referring to his boss but players will have no idea who he is referring to at this time. His uncle may express concern that Raf should be careful what he says, the 'Mirror' may alert the authorities.  ",9,3 Butcher: ???,Raf expresses interest in killing someone. This could have been a precursor to the murders.,TBD,,,,,,,,,,
+9/1/2037,,Butcher,Memory,Training at Butchery and Boss chastising him,,,,The Butchery,,,,,,,,,,
+11/1/2037,,Butcher,Memory,"The Butchers boss is telling him a story. We learn a little about the boss, his position in the community. Mini-game: players must keep the Butchers memories at bay so as not to lose focus on his boss. If they fail they will be taken to the memory they focussed on. If they succeed then the next scene will appear... ",5.1,5 Butcher: Naturalist Terrorism,First introduced to the hatred people have of those who embrace high tech. Possibly the Butcher turned against his own kind.,The Butchery,,,,4 Engine Format,,,,,,
+1/1/2038,,Butcher,Memory,Boss Hitting on Woman,,,,,,,,,,,,,,
+5/1/2038,,Butcher,Memory,Boss Hitting on Free Spirit at Butchery,,,,The Butchery,,,,,,,,,,
+12/12/2038,,Butcher,Memory,Boss Chastises him for Sloppy Butchering,,,,,,,,,,,,,,
+9/9/2040,1:55 PM,Butcher,Dynamic,The Butcher is standing in front of a chopping block inside of a meat shop. From their perspective they can see the entire store. Players are able to grab food objects and chop them. This triggers a new memory...,5,,,The Butchery,,,,4 Engine Format,,,,,,
+9/13/2040,12:55 PM,Butcher,Memory,"A wealthy woman customer comes into the store. Boss tells Raf to give her the best cut of meat. There are three ways players can resolve this scene; 
+1. Fail to cut the meat properly. -> GOTO Slaughter animal with Grandpa
+2. Give her the best cut.
+3. Give her a sub-prime cut. ",5.2,,,The Butchery,,,,4 Engine Format,,,,,,
+1/1/2041,,,Milestone,Year of the Virus,,,,,,,,,,,,,,
+8/1/2041,,Butcher,Memory,Raf meets Lesley at an AA meeting. She explicilty rejects him. ,,4 Butcher: Crime of Passion,This introduces us to Free Spirit and possibility the Butcher killed Anarchist Dick via jellousy.,AA Meeting,Lesley,,,,,,,,,
+9/1/2041,,,Milestone,Virus released into the real world,,,,,,,,,,,,,,
+10/1/2041,,,Milestone,Lesley infected by Virus via Anarchist Dick ,,,,,"Lesley, Anarchist Dick",,,,,,,,,
+10/15/2041,,,Milestone,Senators Daughter infected by Free Spirit,,,,,,,,,,,,,,
+11/5/2041,,Butcher,Memory,"Lesley comes into the shop, expressess interest in Raf. Total change in personality, she's been infect by the virus and is looking for a host.",,4 Butcher: Crime of Passion,From the perspective of the player it appears that she instigated the relatsionhip with the Butcher.,The Butchery,Lesley,,,,,,,,,
+11/6/2041,12:00 PM,Free Spirit,Memory,Free Spirit offers the Journalist the scoop on the story. ,,,,,,,,,,,,,,
+11/6/2041,10:00 PM,Butcher,Memory,"Raf and Leslie have an intimate moment and he contracts the virus
+- tag to uncle, to accomplish things, to achieve. She encourages him 
+- Raf rejects idea of sharing their minds, brings up mental health, risk of infection, its illegal, his ptsd
+- she start with a soft approach, along the lines of, 'Hey, you're good, we're in this together, you're not alone, I want to help etc.' 
+- she is predatory and pushy, verging on sexual assault
+- his ptsd moments kick in, he wants out of there
+- she grows angry with him and convinces him to remain
+- she gives him a little taste
+- all the ptsd moments fade into a fantastically positive moment (his mom and dad dead on the couch from an overdose are now sitting on the couch looking like a normal family)
+- he panics and says no.
+",,6 Virus 1.0,It appears that he was infected by some kind of virus when he connected to Free Spirit. Though it is not clear what it's effects are. Maybe was a part of the Hacker thread or the Corporate consiracy thread. ,TBD,Lesley,,,,,,,,,
+11/7/2041,6:00 AM,Butcher,Memory,"Next day: raf comes down of the high after receiving the Virus. Withdrawal, even more PTSD, panick attack. Having trouble concentrating at work.  ",,4 Butcher: Crime of Passion,He's growing instable,The Butchery,,,,,,,,,,
+11/7/2041,8:00 AM,Butcher,Memory,He fucks something up majorly at work. His boss screams at him. Possibly his boss threatens to fire him.,,4 Butcher: Crime of Passion,"It's starting to make sense, the Butcher was unstable, a loose cannon. ",The Butchery,,,,,,,,,,
+11/8/2041,8:15 AM,Butcher,Memory,"He gets very angry at his boss, does something grabbing a knife, threatens to kill him.",,3 Butcher: ???,He threatened his boss. Are there other victims?,The Butchery,,,,,,,,,,
+11/9/2041,10:00 AM,Butcher,Memory,"Free Spirit convinces him to help her convert the Journalist, someone interested in exposing things.",,7 Corporate Conspiracy,Maybe Free Spirit was part of some larger plot to silence the Journalist?,TBD,,,,,,,,,,
+11/10/2041,12:00 PM,Butcher,Memory,"Raff's fall. This is in part how the Virus controls people. He's presented with two opportunities; positive and negative. On one hand he is presented a future where he owns the butcher shop, he marries Lesley, has children. On the other he's jealous of Free Spirit, everything falls apart, his worst fears imagined, old wounds infected, wants to kill his boss, might be made to think he killed his boss.  ",,8 Virus 2.0,"This could come at the end, so we see how the Butcher was ultiamtely turned. ",TBD,Lesley,,,,,,,,,
+11/10/2041,6:00 PM,Butcher,Memory,"Raf joins Free Spirit to meet with the journalist
+- journalist grew up in a cult, interested in the association of tech and cults. 'Flirty fishing'. She is suspicious of Free Spirit and her sexual vibe
+- Free Spirit tells the journalist that Raf will tell his story with the cult and how it help his PTSD
+- Free spirit offers her a taste of a mind melding experience, the prosecutor rejects her. 
+- Journalist accepts, and is given unanswered journalistic questions. 
+- The journalist is given intimate access to the Virus' world view, where all is revealed, where the secrets she persues is no longer secrets. 
+- tempted but rejects
+",,7 Corporate Conspiracy,Raf was mixed up the corp conspiracy headed by Free Spirit. ,,,,,,,,,,,
+11/10/2041,6:15 PM,Butcher,Memory,The Journalist rejects Lesley and Raf's offer to see the vision from the child. ,,7 Corporate Conspiracy,Raf was mixed up the corp conspiracy headed by Free Spirit. ,,,,,,,,,,,
+11/11/2041,,,Milestone,Raf is needed to physically escort the Journalist. ,,5 Butcher: Naturalist Terrorism,Raf physically assaulted her to bring her to the scene of the crime. ,,"Journalist, 
+Free Spirit",Journalist,,,,,,,,
+11/12/2041,11:00 AM,,Milestone,The Virus Compiles Itself,,,,,,,,,,,,,,
+11/12/2041,10:00 PM,Butcher,Memory,"Raf arrives at the retreat. From Raf's perspective the Warehouse looks like a regular space. He has bound the Journalist into an exoskeleton, thought her clothing cover it. He talks to her about what they can expect from the seance, he's nervous. He thinks that they are showing up together with her as a willing participant.   ",8.3,1 Crazy Cult,The Butcher knew the victims. He went to some kind of retreat with them. Though how did they get to the wharehouse. At this stage the player doesn't know the retreat is the wharehouse. ,Wharehouse,,,,,,,,,,
+11/12/2041,10:20 PM,Butcher,Memory,Thinking he is at seance in a meditation space the Butcher see’s snapshots of rusted old objects from the Warehouse. He thinks this is his PTSD kicking in. Free Spirit may ask if everything is OK. ,8.4,3 Butcher: ???,The Butcher was going crazy? Was this his PTSD?,Wharehouse,,,,,,,,,,
+11/12/2041,11:10 PM,Butcher,Memory,"Raf is sitting in a dimly lit room, across from him is Anarchist Dick and Lesley holding hands. There are glowing wires connecting them together and to him. The lighting is soft and the decor is that of a spa or yoga studio. There are people on either side of them forming a circle with Raf.",8.2,1 Crazy Cult,They are sharing their minds together. Connecting to the healing powers of the child. ,Wharehouse,,,,,,,,,,
+11/12/2041,11:20 PM,Butcher,Memory,"The seance begins. Anarchist Dick leads the process. He thanks everyone for being there, and talks a little about the healing powers of the collective.  ",8.1,1 Crazy Cult,We are introduced to something from the Butchers perspective. A vision of the Virus that is inspiring. ,Wharehouse,,,,,,,,,,
+11/12/2041,11:40 PM,Butcher,Memory,The program begins to compile itself.,,6 Virus 1.0,,Wharehouse,,,,,program-compiles,Virus Program Compiles,,,,
+11/13/2041,12:15 AM,Butcher,Memory,We see images that represent the vision of the Virus. Not sure exactly what the content of the visions is.,,6 Virus 1.0,Once the program starts to compile a darker vision is revealed?,Wharehouse,,,,,,,,,,
+11/13/2041,12:40 AM,Butcher,Memory,The program is interrupted by Free Spirit. She breaks free.,,4 Butcher: Crime of Passion,From the Butchers perspective it appears as if Free Spirit is running away from her. ,Wharehouse,,,,,,,,,,
+11/13/2041,12:45 AM,Butcher,Memory,The Child commands Anarchist Dick and the Butcher to bring Free Spirit back.,,8 Virus 2.0,The Child was the mastermind. And clearly the child was under the control of a higher power / Virus,Wharehouse,,,,,,,,,,
+11/13/2041,12:47 AM,Butcher,Memory,Butcher catches Free Spirit. She pleads with him to let her go. She tries to get him to remember something positive about them. The memories bubble into the Butchers point of view.,,4 Butcher: Crime of Passion,"It appears as if the butcher attacked a woman. Though she is not at the crime scene, so it is not clear when. ",Wharehouse,,,,,,,,,,
+11/13/2041,12:48 AM,Butcher,Memory,"Butcher attacks Free Spirit, she defends herself and knocks him to the ground.",,4 Butcher: Crime of Passion,,Wharehouse,,,,,,,,,,
+11/13/2041,12:49 AM,Butcher,Memory,From the Butchers POV he watches as Anarchist Dick drags Free Spirit towards the Child. She pleads with the Butcher to help her.,,8 Virus 2.0,The child is clearly in control. ,Wharehouse,,,,,,,,,,
+11/13/2041,12:50 AM,Butcher,Memory,"The Child commands Anarchist Dick, “Bring her to me. I need her alive.” The Journalist is tied up next to the Child, staring blankly at nothing in particular.",,8 Virus 2.0,,Wharehouse,,,,,,,,,,
+11/13/2041,12:51 AM,Butcher,Flashback,Positive images of Free Spirit flash in the Butchers POV.,,4 Butcher: Crime of Passion,This could look like the Butcher is obsessing about Free Spirit. But his flashbacks are going to release him from the spell of the Virus.,Wharehouse,,,,,,,,,,
+11/13/2041,12:52 AM,Butcher,Memory,"The Butcher grabs for a knife and lunges at Anarchist Dick, stabbing him in the back. Tells Free Spirit to run. Anarchist Dick attacks Butcher. The Butcher screams at Free Spirit to “Run!”",,3 Butcher: ???,It looks like the butcher killed Anarchist Dick,Wharehouse,,,,,,,,,,
+11/13/2041,12:54 AM,Butcher,Memory,The Butcher stabs Anarchist Dick both collapse to the ground and watches as Free Spirit disappears in the darkness.,,4 Butcher: Crime of Passion,Looks like the Butcher killed Anarchist Dick and a woman escaped. ,Wharehouse,,"anarchistDick-weapon-knife,
+anarchistDick-motif-protect-free-spirit,
+anarchistDick-killer-butcher",10,,,,,,,
+11/13/2041,12:55 AM,Butcher,Memory,"The Child has a knife to the Journalists neck, blood seeps down. The Journalist pleads with the Butcher to not come forward. The Child tells the Butcher the consequences of not submitting, an eternity spent inside of the Virus’s personal hell. The Virus has an imprint of all of the Butchers memories and can still control him. The Child tells the butcher that he has his daughter as well.",,8 Virus 2.0,,Wharehouse,,,,,,,,,,
+11/13/2041,12:56 AM,Butcher,Memory,"The Journalist tells the Butcher that he doesn't have a daughter. That the Virus gave him this memory, to manipulate him. The Butcher and the player have the opportunity to destroy the memory of the daughter.",,8 Virus 2.0,,Wharehouse,,,,,,,,,,
+11/13/2041,12:57 AM,Butcher,Memory,A close-up of the knife cutting across the Journalists throat. We see a look of shock on her face. ,,3 Butcher: ???,Not sure if we can use this shot to make players question wether or not the butcher committed the crime? ,Wharehouse,,,,,,,,,,
+11/13/2041,12:57 AM,Butcher,Memory,The Child slits the journalist throat.,,7 Corporate Conspiracy,The child slit the Journalists throat but why? The journalist was investigating the cult. And maybe the connection to the NeauroMesh software.,Wharehouse,,"journalist-weapon-knife,
+journalist-motif-protect-virus,
+journalist-killer-child",10,,,,,,,
+11/13/2041,12:58 AM,Butcher,Memory,The Child then starts to slam her own head against a sharp object. ,,6 Virus 1.0,What the hell? Why would the child slam her head against the ground?,Wharehouse,,"child-weapon-knife,
+child-motif-protect-virus,
+child-killer-self",10,,,,,,,
+11/13/2041,12:59 AM,Anarchist Dick,Memory,"Anarchist Dick stabs the Butcher in the back, both of them collapse on the floor. ",,,,Wharehouse,,"butcher-weapon-knife,
+butcher-motif-protect-child,
+butcher-killer-anarchist-dick
+",10,,,,,,,
+11/13/2041,1:00 AM,Butcher,Memory,The butcher's view is tilted 90 degrees and his perspective is from the ground. There is the hint of a small child banging his head against the floor screaming. Everything is blurring and red. He blacks out. ,,,This is the last memory the Butcher has. ,Wharehouse,,,,,,,,,,
+11/13/2041,1:10 AM,,Milestone,Crime Scene,,,,,,,,,,,,,,
+11/13/2041,1:20 AM,Protagonist,Dynamic,The Protagonist / Player is meditating to block memories she has collected jacking into other people. This scene establishes the world that the story operates in. ,1,0 Pre Crime,,Protagonists Apartment,,,,4 Engine Format,,,,,,
+11/13/2041,1:30 AM,Protagonist,Dynamic,The Protagonist receives a call from the Detective ordering her to the crime scene. This scene presents players with the Tattoos that tell the story of who the Protagonist is. The memories associated with the tattoos are mixed in with all the memories the player has access to. ,1.1,0 Pre Crime,,Protagonists Apartment,,,,4 Engine Format,,,,,,
+11/13/2041,1:30 AM,Detective,,Police Arrive on Scene,,,,Wharehouse,,,,,,,,,,
+11/13/2041,1:40 AM,Protagonist,Dynamic,The Protagonist flies to the crime scene and is presented with the information the police have of the Crime scene so far and are given some key information including; ,2,0 Pre Crime,,Flying Drone,,,,4 Engine Format,,,,,,
+11/13/2041,1:42 AM,Protagonist,Dynamic,- Anarchist Dick is a known member of a group known as INSERT NAME who illegally share their minds in an effort to create a collective consciousness. ,2.1,1 Crazy Cult,The first theory is seeded. ,,,,,,,,,,,
+11/13/2041,1:43 AM,Protagonist,Dynamic,"- The 'Mirror' is down. It's been corrupted. Looks like hackers. The files on all the members of the room have been distorted, hard to determine what is the truth. NOTE: the police are not used to actually need to do investigative work since the mirror usually gives them what they need. ",2.2,2 Hackers,The second theory is seeded. ,,,,,,,,,,,
+11/13/2041,1:50 AM,Protagonist,Dynamic,The Protagonist arrives at the crime scene and is immediatly ushered into the room and commanded to Jack into the Butcher. Players are told that they need to find any information they can find on what happened before he dies. ,3,,,Wharehouse,,,,4 Engine Format,,,Observation,,,
+11/13/2041,2:00 AM,Protagonist,Flashback,The Protagonist enters the Butcher and is presented with a montage of memories to establish him as a character. The sequence of memories ends and players find themselves...,4.1,3 Butcher: ???,The montage presents the Butcher as a violent man suffering PTSD.,Wharehouse,,,,,,,,,,
+11/13/2041,2:10 AM,Protagonist,Dynamic,Submitting Case Report,,,,Wharehouse,,,,4 Engine Format,,,Childhood,,,
