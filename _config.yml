@@ -20,24 +20,22 @@ collections:
     title: Uploads
     output: true
 defaults:
--
-  scope:
+- scope:
     path: ''
   values:
     layout: default
--
-  scope:
-    path: "memories"
-    type: "pages"
+- scope:
+    path: memories
+    type: pages
   values:
     perspective: The Butcher
-    world-date: 2019-07-13 13:55:00 -04:00
+    world-date: 2019-07-13 17:55:00.000000000 Z
     characters: []
-    location:
+    location: 
     MemoryId: nospaces
     Memory Label: short display name
     MemoryCombo: []
-    Image:
+    Image: 
     layout: memory
 kramdown:
   input: GFM
@@ -54,4 +52,4 @@ gist:
 permalink: pretty
 sass:
   sass_dir: css
-baseurl:
+baseurl: 
