@@ -1,0 +1,20 @@
+---
+layout: page
+---
+
+<div class="row game-window">
+	<div class="col-sm-3 p-0">
+		<div class="inventoryHolder card text-white bg-dark text-center">
+	    {% include inventory.html %}
+			{% include PlayerStats.html %}
+		</div>
+	</div>
+	<div class="col-sm-6">
+	  	<div class="content">
+	  		{{ content }}
+	  	</div>
+	</div>
+	<div class="col-sm-3 p-0">
+	    {% include memoryInventory.html %}
+	</div>
+</div>

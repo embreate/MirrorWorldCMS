@@ -1,0 +1,26 @@
+  <div class="card-header">
+    Inventory
+  </div>
+  <div class="card-body pb-2">
+    <ul id="inventory"></ul>
+    <button id="clearInventory" type="button" class="btn btn-warning btn-sm">
+  	  		Clear Inventory
+  	  	</button>
+
+    <button id="resetInventory" type="button" class="btn btn-warning btn-sm">
+        <i class="fas fa-sync"></i>
+        </button>
+    <button id="debugInventory" type="button" class="btn btn-warning btn-sm" data-toggle="collapse" data-target="#debugIventoryDisplay" aria-expanded="false" aria-controls="debugIventoryDisplay">
+        <i class="fas fa-stethoscope"></i>
+        </button>
+  </div>
+  <div class="collapse" id="debugIventoryDisplay">
+    <div class="card text-white bg-dark text-center">
+      <div class="card-header">
+        All Available Item
+      </div>
+      <div class="card-body pb-2">
+        <ul id="allInventory"></ul>
+      </div>
+    </div>
+  </div>

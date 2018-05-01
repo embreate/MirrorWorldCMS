@@ -1,0 +1,45 @@
+Default:
+  Default: "Get back to the case."
+  Item:
+    - "What do expect me to do with that thing?"
+    - "What's so special about that?"
+  Memory:
+    - "And you're telling me this why?"
+    - "I really don't care..."
+Item:
+  Knife:  "So you think that is the murder weapon? "
+  Flashlight: "Maybe you can use it to shed some light on this case..."
+Memory:
+  crimesceneMissingBody: You think someone else was at the crime scene?
+Disagree:
+  - Get back in that guys head.
+  - Do I need to get one of the officers to come arrest you?
+  - You’re not cooperating
+  - This is not helping the situation.
+  - You know the consequences if you don’t cooperate, jail.
+Info:
+  Useless:
+    - What do you expect me to do with this?
+    - Is this some kind of joke?
+  Useful:
+    - Ok, now we're getting somewhere.
+    - Nice work.
+    - Well done.
+Instruction: # will respond to the player's progress
+  1: Jack into the butcher
+  2:
+    - Level 2a
+    - 2b
+    - 2c
+  3: Level 3
+  4: Level 4
+  5: Level 5
+  6: Level 6
+  7: Level 7
+OnApproach:
+  - You had better have some hard evidence.
+  - Do you have something we can work with?
+  - Tell me you have found something good.
+TimeBased:
+  10: The Paramedics are not going to be able to keep him alive much longer.
+  15: We are running out of time.

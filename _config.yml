@@ -1,0 +1,36 @@
+kramdown:
+   input: GFM
+   hard_wrap: false
+plugins:
+   - jekyll-coffeescript
+   - jekyll-paginate
+lsi: false
+safe: true
+
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+permalink: pretty
+title: InteractiveFiction
+
+timezone: America/New_York
+
+collections:
+  memories:
+    output: true
+    permalink: /:collection/:title/index.html
+  TestingGround:
+    output: true
+    permalink: /:collection/:title/index.html
+
+sass:
+    sass_dir: css
+
+baseurl: # Default frontmatter values
+defaults:
+  -
+    scope:
+        path: ""
+    values:
+        layout: "default"
