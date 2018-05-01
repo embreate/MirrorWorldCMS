@@ -1,13 +1,17 @@
 ---
 title: Slaughtering an Animal with Grandfather
-layout: memory
 perspective: The Butcher
 world-date: 2019-07-13 13:55:00 -04:00
 characters:
 - The Butcher
 - Grandfather
 location: Grandfathers Barn
-catergories: 
+MemoryId: slaughteringlamb
+Memory Label: Slaughting Lamb
+MemoryCombo:
+- 
+Image: 
+layout: memory
 ---
 
 {:#start}
