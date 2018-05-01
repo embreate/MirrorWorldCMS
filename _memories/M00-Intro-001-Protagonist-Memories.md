@@ -1,14 +1,14 @@
 ---
+title: The Protagonists Memories
 layout: memory
 perspective: The Protagonist
-title: "The Protagonists Memories"
-world-date: 2041-11-13T01:20:00 -500
-characters: ["The Protagonist"]
+world-date: 2041-11-13 01:20:00 -05:00
+characters:
+- The Protagonist
 location: Protagonists Apartment
-catergories: #["",""]
-
-
+catergories: 
 ---
+
 {:#start}
 <section markdown="1">
 

@@ -1,7 +1,7 @@
 ---
+title: Barndoor
 layout: memory
-title:  "Barndoor"
-catergories: #["",""]
+catergories: 
 ---
 
 DOOR NUMBER 2

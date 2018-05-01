@@ -1,36 +1,39 @@
+---
+title: InteractiveFiction
+timezone: America/New_York
+collections:
+  memories:
+    title: Memories
+    output: true
+    permalink: "/:collection/:title/index.html"
+  posts:
+    title: Posts
+    output: true
+  TestingGround:
+    title: Testing Ground
+    output: true
+    permalink: "/:collection/:title/index.html"
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+  values:
+    layout: default
 kramdown:
-   input: GFM
-   hard_wrap: false
+  input: GFM
+  hard_wrap: false
 plugins:
-   - jekyll-coffeescript
-   - jekyll-paginate
+- jekyll-coffeescript
+- jekyll-paginate
 lsi: false
 safe: true
-
 incremental: false
 highlighter: rouge
 gist:
   noscript: false
 permalink: pretty
-title: InteractiveFiction
-
-timezone: America/New_York
-
-collections:
-  memories:
-    output: true
-    permalink: /:collection/:title/index.html
-  TestingGround:
-    output: true
-    permalink: /:collection/:title/index.html
-
 sass:
-    sass_dir: css
-
-baseurl: # Default frontmatter values
-defaults:
-  -
-    scope:
-        path: ""
-    values:
-        layout: "default"
+  sass_dir: css
+baseurl: 

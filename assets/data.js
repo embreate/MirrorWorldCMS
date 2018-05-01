@@ -1,6 +1,7 @@
 ---
-layout: null
+layout: 
 ---
+
 /* This file will get parsed an by Liquid/Jekyll.
  * Converting yml files found in the _data folder
  * allowing easier access for js.

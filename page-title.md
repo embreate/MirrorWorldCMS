@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Title Screen
-permalink: /
-
+permalink: "/"
+layout: page
 ---
 
 <div class="row">

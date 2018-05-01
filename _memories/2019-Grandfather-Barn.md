@@ -1,13 +1,15 @@
 ---
+title: Slaughtering an Animal with Grandfather
 layout: memory
 perspective: The Butcher
-title:  "Slaughtering an Animal with Grandfather"
-world-date: 2019-07-13T12:55:00 -500
-characters: [The Butcher, Grandfather]
+world-date: 2019-07-13 13:55:00 -04:00
+characters:
+- The Butcher
+- Grandfather
 location: Grandfathers Barn
 catergories: 
-
 ---
+
 {:#start}
 <section markdown="1">
 You're in a barn. Looking down you see you're in the body of a young boy. A tiny sheep is led into the room with a rope by an older man (Raf's grandfather). Looking up at him you watch as he pulls a knife out of his pocket and hands it to you. The boy begins to cry.

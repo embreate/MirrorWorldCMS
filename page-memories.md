@@ -1,9 +1,9 @@
 ---
-layout: page
 title: Memories
-permalink: /memories/
-
+permalink: "/memories/"
+layout: page
 ---
+
 <div>
   <h1>{{page.title}}</h1>
 

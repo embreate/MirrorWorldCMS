@@ -1,12 +1,12 @@
 ---
+title: Butchery Empty w/ Boss
 layout: memory
 perspective: The Butcher
-title: "Butchery Empty w/ Boss"
-world-date: 2040-09-13T14:10:00 -500
-characters: ["The Butcher, Boss"]
+world-date: 2040-09-13 15:10:00 -04:00
+characters:
+- The Butcher, Boss
 location: The Butchery
-catergories: #["",""]
-
+catergories: 
 ---
 
 <section markdown="1" id ="start" class="memorySection">

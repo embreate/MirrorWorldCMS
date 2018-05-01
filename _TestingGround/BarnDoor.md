@@ -1,7 +1,7 @@
 ---
+title: Barndoor
 layout: memory
-title:  "Barndoor"
-catergories: #["",""]
+catergories: 
 ---
 
 Hover over Open Barn Doors

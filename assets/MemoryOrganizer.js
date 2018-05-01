@@ -1,6 +1,7 @@
 ---
-layout: null
+layout: 
 ---
+
 let MEMORIES_CONTAINER = "memories-container";
 
 $(function() {

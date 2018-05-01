@@ -1,12 +1,12 @@
 ---
+title: Call From Detective
 layout: memory
 perspective: The Protagonist
-title: "Call From Detective"
-world-date: 2041-11-13T01:30:00 -500
+world-date: 2041-11-13 01:30:00 -05:00
 location: Protagonists Apartment
-characters: ["The Protagonist", "Detective"]
-
-
+characters:
+- The Protagonist
+- Detective
 ---
 
 {:#start}

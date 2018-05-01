@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Characters
-permalink: /characters/
-
+permalink: "/characters/"
+layout: page
 ---
 
 <h1>{{page.title}}</h1>

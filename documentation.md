@@ -1,7 +1,7 @@
 ---
 title: Documentation
+permalink: "/documentation/"
 layout: page
-permalink: /documentation/
 ---
 
 <div class="documentation" markdown="1">

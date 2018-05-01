@@ -1,12 +1,12 @@
 ---
+title: Butchery Setup
 layout: memory
 perspective: The Butcher
-title: "Butchery Setup"
-world-date: 2040-09-13T13:55:00 -500
-characters: ["The Butcher"]
+world-date: 2040-09-13 14:55:00 -04:00
+characters:
+- The Butcher
 location: The Butchery
-catergories: #["",""]
-
+catergories: 
 ---
 
 <section markdown="1" id ="start" class="memorySection">

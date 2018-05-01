@@ -1,12 +1,12 @@
 ---
+title: Entering the Butcher
 layout: memory
 perspective: The Butcher
-title: "Entering the Butcher"
-world-date: 2040-09-13T12:55:00 -500
-characters: ["The Butcher"]
+world-date: 2040-09-13 13:55:00 -04:00
+characters:
+- The Butcher
 location: Netherworld
-catergories: #["",""]
-
+catergories: 
 ---
 
 <section markdown="1" id ="start" class="memorySection">

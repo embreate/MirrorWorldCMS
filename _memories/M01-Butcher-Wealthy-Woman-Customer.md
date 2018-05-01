@@ -1,12 +1,14 @@
 ---
+title: Wealthy Woman Customer
 layout: memory
 perspective: The Butcher
-title: "Wealthy Woman Customer"
-world-date: 2040-09-13T12:55:00 -500
-characters: [The Butcher, Boss, Elma]
+world-date: 2040-09-13 13:55:00 -04:00
+characters:
+- The Butcher
+- Boss
+- Elma
 location: Butchery
-catergories: #["",""]
-
+catergories: 
 ---
 
 <section markdown="1" id ="start" class="memorySection">

@@ -1,7 +1,7 @@
 ---
+title: Slaughtering an Animal with his Grandfather
 layout: memory
-title:  "Slaughtering an Animal with his Grandfather"
-catergories: #["",""]
+catergories: 
 ---
 
 <section markdown="1" id ="start" class="memorySection">

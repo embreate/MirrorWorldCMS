@@ -1,13 +1,14 @@
 ---
+title: The Crime Scene
 layout: memory
 perspective: The Protagonist
-title: "The Crime Scene"
-world-date: 2041-11-13T01:50:00 -500
-characters: ["The Protagonist"]
+world-date: 2041-11-13 01:50:00 -05:00
+characters:
+- The Protagonist
 location: Protagonists Apartment
-catergories: #["",""]
-
+catergories: 
 ---
+
 {:#start}
 <section markdown="1">
 
