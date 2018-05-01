@@ -2,6 +2,9 @@
 title: InteractiveFiction
 timezone: America/New_York
 collections:
+  characters:
+    title: Characters
+    output: true
   memories:
     title: Memories
     output: true
