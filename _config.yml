@@ -32,7 +32,7 @@ defaults:
     characters: []
     location:
     MemoryId: nospaces
-    Memory Label: short display name
+    Memory Label: short label name
     Image:
     layout: memory
 kramdown:
