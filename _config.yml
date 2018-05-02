@@ -33,7 +33,6 @@ defaults:
     location:
     MemoryId: nospaces
     Memory Label: short display name
-    MemoryCombo: []
     Image:
     layout: memory
 kramdown:
