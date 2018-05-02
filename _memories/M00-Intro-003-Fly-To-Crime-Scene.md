@@ -1,12 +1,12 @@
 ---
 title: Fly To Crime Scene
-layout: memory
 perspective: The Protagonist
 world-date: 2041-11-13 01:40:00 -05:00
-location: City
 characters:
 - The Protagonist
 - Detective
+location: City
+layout: memory
 ---
 
 {:#start}
