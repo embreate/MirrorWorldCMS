@@ -33,12 +33,17 @@ defaults:
     location: 
     MemoryId: nospaces
 <<<<<<< HEAD
+<<<<<<< HEAD
     Memory Label: short label name
     Image:
 =======
     Memory Label: short display name
     Image: 
 >>>>>>> 044a31318f302b2f36df8f8964934f7a008c1ab5
+=======
+    Memory Label: short display name
+    Image: 
+>>>>>>> origin/master
     layout: memory
 kramdown:
   input: GFM
