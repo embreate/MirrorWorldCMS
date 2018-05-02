@@ -30,10 +30,15 @@ defaults:
     perspective: The Butcher
     world-date: 2019-07-13 17:55:00.000000000 Z
     characters: []
-    location:
+    location: 
     MemoryId: nospaces
+<<<<<<< HEAD
     Memory Label: short label name
     Image:
+=======
+    Memory Label: short display name
+    Image: 
+>>>>>>> 044a31318f302b2f36df8f8964934f7a008c1ab5
     layout: memory
 kramdown:
   input: GFM
@@ -50,4 +55,4 @@ gist:
 permalink: pretty
 sass:
   sass_dir: css
-baseurl:
+baseurl: 
