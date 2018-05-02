@@ -8,9 +8,6 @@ characters:
 location: Grandfathers Barn
 MemoryId: slaughteringlamb
 Memory Label: Slaughting Lamb
-MemoryCombo:
-- 
-Image: 
 layout: memory
 ---
 

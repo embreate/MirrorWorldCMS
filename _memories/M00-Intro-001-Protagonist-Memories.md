@@ -1,12 +1,11 @@
 ---
 title: The Protagonists Memories
-layout: memory
 perspective: The Protagonist
 world-date: 2041-11-13 01:20:00 -05:00
 characters:
 - The Protagonist
 location: Protagonists Apartment
-catergories: 
+layout: memory
 ---
 
 {:#start}
