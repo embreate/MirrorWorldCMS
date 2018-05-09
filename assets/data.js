@@ -1,5 +1,5 @@
 ---
-layout: 
+layout:
 ---
 
 /* This file will get parsed an by Liquid/Jekyll.
@@ -37,6 +37,24 @@ let allMemories = [
         "Image":"{{memory.Image-Src}}"}
         {%-unless forloop.last-%},{%-endunless-%}
     {%-endif-%}
+  {%-endfor-%}
+];
+
+let memoriesFromMD =[
+  {%-for m in site.memories-%}
+    {%-capture ID -%}{{ m.MemoryId }}ID{%-endcapture-%}
+      {%-if ID != "ID"-%}
+      { "Id": "{{ m.Id }}",
+        "Label": "{{ m['Memory Label'] }}",
+        "Owner": "{{ m.perspective }}",
+        "Category": "{{ m.Category }}",
+        "Tags": "{{ m.Tags }}",
+        "Creatable": "{{ m.Creatable }}",
+        "world-date": "{{m.Date }}",
+        "Image":"{{m.Image}}"
+      }
+      {%-unless forloop.last-%},{%-endunless-%}
+      {%-endif-%}
   {%-endfor-%}
 ];
 

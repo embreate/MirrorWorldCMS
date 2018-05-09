@@ -29,17 +29,17 @@ Instruction: # will respond to the player's progress
   1: Jack into the butcher
   2:
     - Level 2a
-    - 2b
-    - 2c
+    - Level 2b
+    - Level 2c
   3: Level 3
   4: Level 4
   5: Level 5
   6: Level 6
   7: Level 7
-OnApproach:
+OnApproach: # will select randomly from the set of responses.
   - You had better have some hard evidence.
   - Do you have something we can work with?
   - Tell me you have found something good.
-TimeBased:
+TimeBased: # how much "time" has as past?
   10: The Paramedics are not going to be able to keep him alive much longer.
   15: We are running out of time.
