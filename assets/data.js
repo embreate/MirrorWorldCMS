@@ -1,5 +1,5 @@
 ---
-layout:
+layout: 
 ---
 
 /* This file will get parsed an by Liquid/Jekyll.
